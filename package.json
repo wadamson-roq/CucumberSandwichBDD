@@ -1,0 +1,22 @@
+{
+    "name": "cucumber-sandwich-bdd",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "cucumber-js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Floz-Credersi/CucumberSandwichBDD.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Floz-Credersi/CucumberSandwichBDD/issues"
+    },
+    "homepage": "https://github.com/Floz-Credersi/CucumberSandwichBDD#readme",
+    "devDependencies": {
+      "@cucumber/cucumber": "^8.11.1"
+    }
+  }
