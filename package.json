@@ -4,19 +4,19 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "cucumber-js"
+        "test": "cucumber-js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Floz-Credersi/CucumberSandwichBDD.git"
+        "type": "git",
+        "url": "git+https://github.com/Floz-Credersi/CucumberSandwichBDD.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Floz-Credersi/CucumberSandwichBDD/issues"
+        "url": "https://github.com/Floz-Credersi/CucumberSandwichBDD/issues"
     },
     "homepage": "https://github.com/Floz-Credersi/CucumberSandwichBDD#readme",
     "devDependencies": {
-      "@cucumber/cucumber": "^8.11.1"
+        "@cucumber/cucumber": "^8.11.1"
     }
-  }
+}
